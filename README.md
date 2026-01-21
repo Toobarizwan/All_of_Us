@@ -1,6 +1,6 @@
 # All_of_Us
 
-## Running Jobs on a Remote Server
+## Running Jobs on a Linux Screen
 
 This is a guide on how to use `screen` to run jobs on All Of Us. This will allow you to run jobs without keeping your laptop or browser open.
 
