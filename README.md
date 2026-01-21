@@ -83,20 +83,18 @@ ls -lh *.log
 ls -lh *.tsv
 ```
 
-## Useful Commands
-
-Kill a stuck screen session:
+###Kill a stuck screen session:
 
 ```bash
 screen -XS screen_name quit
 ```
 
-Force detach a screen (if already attached elsewhere):
+###Force detach a screen (if already attached elsewhere):
 
 ```bash
 screen -d -r screen_name
 ```
 
-## Helpful Reference
+## Helpful Resource
 
 [https://linuxize.com/post/how-to-use-linux-screen/](https://linuxize.com/post/how-to-use-linux-screen/)
