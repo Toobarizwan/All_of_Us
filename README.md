@@ -3,7 +3,7 @@ This is my GitHub project for running analyses on All Of Us Researcher Workbench
 
 ## Running Jobs on a Remote Server
 
-This is a guide on how to use `screen` to run jobs on All Of Us without keeping your laptop open. This will allow you to long jobs without interruption on a remote server. You can disconnect and reconnect from it.
+This is a guide on how to use `screen` to run jobs on All Of Us without keeping your laptop or browser open.
 
 ### Step 1: Start a Screen Session
 
