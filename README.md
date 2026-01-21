@@ -32,6 +32,8 @@ Example:
 ```bash
 bash run_pwas.sh
 ```
+
+---
 ### Step 3: Detach From the Screen
 
 To safely leave the session **without stopping the job**:
