@@ -2,8 +2,13 @@
 
 ## To Run run_predixcan_islet_sequential.sh
 
+Installing pipeline in All of Us:
+````
+git clone https://github.com/ckrueger2/aou_sc_predixcan
+````
+````
 git clone https://github.com/Toobarizwan/All_of_Us
-
+````
 
 ````
 chmod +x run_predixcan_islet_sequential.sh
