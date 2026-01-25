@@ -2,7 +2,7 @@
 
 ## To Run run_predixcan_islet_sequential.sh
 
-Installing pipeline in All of Us:
+##### Installing pipeline in All of Us:
 ````
 git clone https://github.com/ckrueger2/aou_sc_predixcan
 ````
@@ -10,12 +10,12 @@ git clone https://github.com/ckrueger2/aou_sc_predixcan
 git clone https://github.com/Toobarizwan/All_of_Us
 ````
 
-Changing file permissions:
+#### Changing file permissions:
 ````
 chmod +x run_predixcan_islet_sequential.sh
 ````
 
-Executing the script:
+#### Executing the script:
 ````
 ./run_predixcan_islet_sequential.sh <Phecode> <pop>
 ````
