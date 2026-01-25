@@ -2,6 +2,9 @@
 
 ## To Run run_predixcan_islet_sequential.sh
 
+git clone https://github.com/Toobarizwan/All_of_Us
+
+
 ````
 chmod +x run_predixcan_islet_sequential.sh
 ````
