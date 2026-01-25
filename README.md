@@ -1,5 +1,19 @@
 # All_of_Us
 
+## To Run run_predixcan_islet_sequential.sh
+
+````
+chmod +x run_predixcan_islet_sequential.sh
+````
+
+````
+./run_predixcan_islet_sequential.sh <Phecode> <pop>
+````
+Example:
+````
+./run_predixcan_islet_sequential.sh 172 META
+````
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Running Jobs on a Linux Screen
 
 This is a guide on how to use `screen` to run jobs on All Of Us. This will allow you to run jobs without keeping your laptop or browser open.
